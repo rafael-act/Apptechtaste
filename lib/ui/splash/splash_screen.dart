@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/ui/_core/app_colors';
+import 'package:myapp/ui/_core/app_colors.dart';
 import 'package:myapp/ui/home/home_screen.dart';
 
 class SplashScreen extends StatelessWidget {

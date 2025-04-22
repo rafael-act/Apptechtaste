@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/ui/_core/app_colors';
+import 'package:myapp/ui/_core/app_colors.dart';
 
 abstract class Apptheme {
   static ThemeData appTheme = ThemeData.dark().copyWith(

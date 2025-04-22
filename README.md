@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-keyword: ALURA
+keyword: ALURA,WIDGETS,GUIA DE MERGULHO
 
 Em poucos dias, você vai criar um projeto real do zero. Cada aula aqui foi pensada para você colocar a mão no código e aprender do jeito certo. Vamos nessa? 🚀
 
@@ -29,3 +29,11 @@ Link para o IDX https://idx.google.com/
 Link para o arquivo "analysis_options.yaml"  https://github.com/alura-cursos/flutter_techtaste/blob/main/analysis_options.yaml
 
 Link para a pasta "assets" https://github.com/alura-cursos/flutter_techtaste/tree/main/assets
+
+Flutter: o que é e tudo sobre o framework https://www.alura.com.br/artigos/flutter
+Acesse o Guia de Mergulho https://grupoalura.notion.site/Imers-o-Mobile-Guia-de-Mergulho-1ba379bdd09b80e3ac18c8512f31530d?pvs=4
+
+Flutter: escolhendo uma arquitetura para o seu projeto https://www.alura.com.br/artigos/flutter-arquitetura-seu-projeto
+Conheça os Design Patterns mais usados no ecossistema Flutter https://www.alura.com.br/artigos/design-patterns-flutter
+
+ Techguide https://techguide.sh/
